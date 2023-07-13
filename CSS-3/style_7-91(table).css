@@ -1,0 +1,50 @@
+/* 筆記連結 */
+/* https://www.notion.so/7-91-table-styling-3761b40410d34f4a81999a77efc656ab?pvs=4 */
+
+  /* table styling */
+ /* table最外層
+ th標題
+ td內容 */
+
+/* 調整表格大小 */
+/* table{
+    width: 300px;
+    height: 300px;
+} */
+
+/* 加外框線 */
+table,
+th,
+td{
+    /* border: 1px solid black; */
+    /* 外框兩條線 */
+    border-bottom: 3px solid gray;
+    /* 表格只有底下有線 */
+    border-collapse: collapse;
+    /* 並在一起 */
+}
+
+th,
+td{
+    /* 不可加逗號 */
+    /* padding: 0.5rem,0.8rem; */
+    padding: 0.5rem 0.95rem;
+    
+
+    /* borded
+    border-color: blue; */
+}
+
+/* th標題變綠色,字體白色,字放大1.5rem */
+th{
+    background-color: rgb(29, 174, 29);
+    color: white;
+    font-size: 1.5rem;
+}
+
+/* td滑鼠移過去變灰色,字體變白色,字體放大 */
+td:hover{
+    background-color: gray;
+    color: white;
+    font-size: 1.2rem;
+}

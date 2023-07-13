@@ -1,0 +1,16 @@
+/* 筆記連結 */
+/* https://www.notion.so/6-78-anchor-tag-styling-91b8bdf3eb6943b9abae61d56534fd7e?pvs=4 */
+
+
+.survey{
+    background-color: rgb(255, 0, 21); 
+    color: white;
+    text-decoration: underline;
+    /* 文字裝飾器：底線 */
+    padding: 1rem;
+}
+
+.survey:hover{
+    /* 滑鼠游標移動過去執行的動作 */
+    background-color: blue;
+}

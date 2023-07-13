@@ -1,0 +1,16 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-59-Descendant-Selector-4e351b62f06d456284b8af3471acd245?pvs=4*/
+/* class selector */
+/* .red_t{
+    color: red;
+}
+.green_t{
+    color: green;
+} */
+/* Desendant selector */
+div.link1 a{
+    color: red;
+}
+div.link2 a{
+    color: green;
+}

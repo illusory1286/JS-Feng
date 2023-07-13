@@ -1,0 +1,18 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-58-grouping-selector-caa11ea6f7704fe69bf880f2de690620?pvs=4 */
+
+/* element selector */
+/* h1{
+    color: blue;
+}
+h2{
+    color: blue;
+} */
+/* 當你程式碼有複製貼上的行為就是有改進的空間 */
+
+/* grouping selector */
+h1,
+h2
+{
+color: rgb(156, 138, 38);
+}

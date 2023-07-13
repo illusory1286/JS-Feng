@@ -1,0 +1,20 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-68-text-align-letter-spacing-and-line-height-4956456992714e5d8f8d7f72f7f32f0f?pvs=4 */
+
+/* p{
+    text-align: right;
+    //預設靠左 
+    text-decoration:  line-through;
+    //刪除線
+} */
+
+/* p{
+    text-decoration: underline;
+    底線
+} */
+
+/* 連結屬性 */
+a{
+    text-decoration: none;
+    color: orange;
+}

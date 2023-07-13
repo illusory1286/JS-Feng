@@ -1,0 +1,14 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-71-backgrund-image-and-color-5deaf03ee9e840369d64b91d078657eb?pvs=4 */
+
+h1{
+    background-color: red;
+}
+
+body{
+    color: rgb(255, 255, 255);
+    background-image: url(./panda_bkg.jpg );
+    background-size: cover;
+    background-position: center;
+}
+

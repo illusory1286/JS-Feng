@@ -1,0 +1,12 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-63-Cascading-Style-Sheet-4281da2e0ec34b3a92f9a9474fafd2b4?pvs=4 */
+/* Casecading */
+h1{
+    color: red;
+}
+p{
+    color: grey;
+}
+h1{
+    color: blue;
+} 

@@ -1,0 +1,13 @@
+/* 標題顏色設定
+h1{
+     color: rgba(0, 0, 255, 0.3);
+}
+
+h2{
+    color: blue;
+} */
+
+/* universal selector (全宇宙選擇器) */
+*{
+    color: blue;
+}

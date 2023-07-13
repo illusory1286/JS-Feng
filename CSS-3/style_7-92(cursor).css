@@ -1,0 +1,32 @@
+ /* 筆記連結 */
+/* https://www.notion.so/7-92-opacity-and-cursor-pointer-67d2163e992841009bac9f02d1b43300?pvs=4 */
+
+/* 透明度 */
+h1{
+    /* 最高為1,超過不會更黑 */
+    opacity: 0.6;
+}
+
+/* 滑鼠移過去變成手指 */
+td{
+    cursor: pointer;
+}
+
+/* -------保留設定------ */
+
+table,
+th,
+td{
+    /* border: 1px solid black; */
+    /* 外框兩條線 */
+    border-bottom: 3px solid gray;
+    /* 表格只有底下有線 */
+    border-collapse: collapse;
+    /* 並在一起 */
+}
+/* td滑鼠移過去變灰色,字體變白色,字體放大 */
+td:hover{
+    background-color: gray;
+    color: white;
+    font-size: 1.2rem;
+}

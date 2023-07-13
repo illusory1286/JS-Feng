@@ -1,0 +1,21 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-84-position-static-e62987e9439c46e7ae225264eab4f840?pvs=4 */
+
+div.container{
+    background-color: black;
+    width: 400px;
+    height: 700px;
+}
+.box{
+    width :200px;
+    height: 200px;
+}
+.box1{
+    background-color: green;
+}
+.box2{
+    background-color: yellow;
+}
+.box3{
+    background-color: royalblue;
+}

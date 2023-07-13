@@ -1,0 +1,17 @@
+/* 筆記連結 */
+/* https://www.notion.so/7-90-List-styling-ce1d8f78e4084800b1dede1fad77e834?pvs=4 */
+
+/* ul */
+ul{
+    /* list-style-type: armenian; */
+    list-style-type: circle;
+}
+/* ol */
+ol{
+    /* 羅馬拼音：I II III */
+    list-style-type: upper-roman;
+    /* 小寫 */
+    /* list-style-type: lower-alpha; */
+    /* 大寫 */
+    /* list-style-type: upper-alpha; */
+}

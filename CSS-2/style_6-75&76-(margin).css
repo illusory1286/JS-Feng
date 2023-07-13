@@ -1,0 +1,17 @@
+/* 筆記連結 */
+/* 
+magin:
+https://www.notion.so/6-75-Margin-7c5be29e3f9d4ffbb7a50e0c6b16b6fd?pvs=4 
+boder:
+https://www.notion.so/6-76-Border-b372eb89f1ee479ea933727142ae4c8f?pvs=4
+*/
+
+h1.pic{
+    /* margin,border,weight,height */
+    /* margin */
+    background-color: brown;
+    color: white;
+    margin: 3rem 5rem;
+    /* border: */
+    border: 1rem solid rgb(91, 195, 129);
+}

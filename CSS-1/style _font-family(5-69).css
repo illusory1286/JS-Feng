@@ -1,0 +1,12 @@
+ /* 筆記連結 */
+/* https://www.notion.so/5-69-font-family-and-font-weight-ff2dc7bc39f0401582209e3e571b2306?pvs=4 */
+
+ p{
+    font-family: 'Noto Sans TC', sans-serif;
+    /* 如果電腦沒有此字體,就會跳到下一個 */
+    color: blue;
+    font-weight: 600;
+    text-indent: 32px;
+ } 
+
+

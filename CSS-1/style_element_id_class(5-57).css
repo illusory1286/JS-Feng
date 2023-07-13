@@ -1,0 +1,25 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-57-Element-ID-Class-Selectors-5576e31e357a4af5995c1b6cce6184c4?pvs=4 */
+ /* element selector
+h1{
+    color: blue;
+}
+h2{
+    color: green;
+}
+
+ /* id selector */
+/* #yellow_t{
+    color: rgb(213, 213, 84);
+}
+#red_t{
+    color: rgb(136, 32, 32)
+}  */
+
+ /* class selector */  
+ .blue_T{
+    color: rgb(32, 32, 191);
+ }
+ .large_T{
+    font-size: 3rem;
+ }

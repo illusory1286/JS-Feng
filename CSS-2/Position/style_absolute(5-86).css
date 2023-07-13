@@ -1,0 +1,26 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-86-position-absolute-7d2630bf807c419d808bc88a9745c5b1?pvs=4 */
+
+div.container{
+    background-color: black;
+    width: 400px;
+    height: 1700px;
+    /* 預設為 position: static; */
+    position: relative;
+}
+.box{
+    width :200px;
+    height: 200px;
+}
+.box1{
+    background-color: green;
+}
+.box2{
+    background-color: yellow;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.box3{
+    background-color: royalblue;
+}

@@ -1,0 +1,27 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-88-position-sticky-c2ae94075094446fa140afbbcdd0ace1?pvs=4 */
+
+div.container{
+    background-color: black;
+    width: 400px;
+    height: 1700px;
+    /* 預設為 position: static; */
+}
+.box{
+    width :200px;
+    height: 200px;
+}
+.box1{
+    background-color: green;
+}
+.box2{
+    background-color: yellow;
+    position: sticky;
+    /* top: 200px;
+    right: 200px; */
+    top:0;
+    width: 100%;
+}
+.box3{
+    background-color: royalblue;
+}

@@ -1,0 +1,16 @@
+ /* 筆記連結 */
+/* https://www.notion.so/6-74-padding-c33576cd597e4134b9ec2d6ff892e368?pvs=4 */
+/* try.html+ style_padding(5-74).css*/
+
+/* padiing */
+ button.ex{
+    /* padding */
+    color: red;
+    font-size: 3rem;
+    /* padding: 3rem 1rem 2rem 4rem; *
+    /* 上右下左 */
+    padding: 1rem 4rem;
+    /* 全4rem */
+    /* padding: 4rem; */
+ } 
+

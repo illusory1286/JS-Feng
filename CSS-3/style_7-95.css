@@ -1,0 +1,25 @@
+ /* 筆記連結 */
+/* https://www.notion.so/7-94-trasition-syntax-c44eafd15f7a40c29b92b66b491b999f?pvs=4 */
+
+/* 轉場效果 */
+/* h1{ */
+    /* property name ,duraction ,timing */
+    /* 背景顏色轉化時間1秒 */
+    /* transition: background-color 1s; */
+    /* 字的顏色轉化時間3秒 */
+    /* transition: color 3s; */
+    /* 所有屬性套用 */
+    /* transition: all 3s; */ 
+ /* } */
+
+ /* Timeing Funrion */
+ h1{
+    /* 一開始慢再變快 */
+    transition: all 1s ease-in; 
+ }
+
+ h1:hover{
+    background-color: brown;
+    color: white;
+ }
+ 

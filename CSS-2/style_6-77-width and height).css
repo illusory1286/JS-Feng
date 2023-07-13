@@ -1,0 +1,10 @@
+/* 筆記連結 */
+/* https://www.notion.so/6-77-width-and-height-808c60875f3246f5b4969e3e4e5b6ba2?pvs=4 */
+
+/* width and height設定 */
+h1.pic{
+    background-color: blue;
+    color: white;
+    width: 25vw;
+    height: 20vh;
+}

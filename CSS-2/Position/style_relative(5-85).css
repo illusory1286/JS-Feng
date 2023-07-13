@@ -1,0 +1,32 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-85-position-relative-9cfc2c08507f402bb9eaeb65e7c46f84?pvs=4*/
+
+div.container{
+    background-color: black;
+    width: 400px;
+    height: 700px;
+}
+.box{
+    width :200px;
+    height: 200px;
+}
+.box1{
+    background-color: green;
+    position: relative;
+    z-index: 3 ;
+}
+.box2{
+    background-color: yellow;
+    position: relative;
+    /* top,bottom,left,right */
+    bottom: 100px;
+    left: 100px;
+    z-index: 2;
+}
+.box3{
+    background-color: royalblue;
+    position: relative;
+    bottom: 50px;
+    left: 100px;
+    z-index: 1;
+}

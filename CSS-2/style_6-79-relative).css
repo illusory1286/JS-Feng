@@ -1,0 +1,23 @@
+ /* 筆記連結 */
+/* https://www.notion.so/6-79-Relative-Units-vm-vh-4ea7732312f94d8ab2612afb88929298?pvs=4 */
+
+
+/* div.box1{
+    background-color: black;
+    width: 500px;
+    height: 500px;
+    /* 外層 
+} */
+/* div.box2{
+    background-color: aqua;
+    width: 50%;
+    height: 50%;
+    /* 內層 
+} */
+
+/* vw,vh */
+div.box3{
+    background-color: green;
+    width: 50vw;
+    height: 50vh;
+}

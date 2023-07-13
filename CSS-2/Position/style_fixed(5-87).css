@@ -1,0 +1,28 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-87-position-fixed-18056ca8d9644570a747013cc6f71e3f?pvs=4 */
+
+div.container{
+    background-color: black;
+    width: 400px;
+    height: 1700px;
+    /* 預設為 position: static; */
+}
+.box{
+    width :200px;
+    height: 200px;
+}
+.box1{
+    background-color: green;
+}
+.box2{
+    background-color: yellow;
+    position: fixed;
+    /* top: 200px;
+    right: 200px; */
+    top:0;
+    right: 0;
+    width: 100%;
+}
+.box3{
+    background-color: royalblue;
+}

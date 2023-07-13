@@ -1,0 +1,16 @@
+/* 筆記連結 */
+/* https://www.notion.so/5-64-CSS-Specificity-c7524be439384046962e269bcaac8caa?pvs=4 */
+
+/* Specificity */
+h1{
+    color: blue;
+}
+
+#red_t
+{  
+    color: red;
+}
+
+div.link1 a{
+    color: green;
+}
